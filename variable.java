@@ -8,11 +8,10 @@ public class variable{
 
     a = 10;
     name = "java";
+    int b = 12;
     System.out.println(a);
     System.out.println(name);
-
-
-
+    System.out.println(b);
 
 
 
