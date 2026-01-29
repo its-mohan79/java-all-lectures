@@ -27,6 +27,16 @@ System.out.println(kyNum);
 
 double lyNum = 19.99d;
 System.out.println(lyNum);
-    }
+ 
+
+float f1 = 35e3f;
+double d1 = 12E4d;
+System.out.println(f1);
+System.out.println(d1);
+
+
+
+
+}
     
 }
