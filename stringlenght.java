@@ -12,6 +12,11 @@ public class stringlenght {
 
     String txt2 = "Please locate where 'locate' occurs!";
     System.out.println(txt2.indexOf("locate"));
+
+
+        String txt5 = "Hello";
+    System.out.println(txt5.charAt(0));  // H
+    System.out.println(txt5.charAt(4));  // o
   }
 
 
