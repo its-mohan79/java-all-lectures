@@ -28,6 +28,11 @@ System.out.println(value1.equals(value2));
 System.out.println(value3.equals(value4));
 
 
+String tri = " hello world ";
+System.out.println("before:[" +tri+"]");
+System.out.println("after: ["+tri.trim()+"]");
+
+
 
   }
 
