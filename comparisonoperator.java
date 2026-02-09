@@ -7,6 +7,7 @@ int x = 5;
 
 
     boolean isLoggedIn = true;
+    
     boolean isAdmin = false;
 
     System.out.println("Regular user: " + (isLoggedIn && !isAdmin));
