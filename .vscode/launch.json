@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "multiplevariable",
+            "request": "launch",
+            "mainClass": "multiplevariable",
+            "projectName": "java all lectures_34766210"
+        },
+        {
+            "type": "java",
             "name": "stringlenght",
             "request": "launch",
             "mainClass": "stringlenght",

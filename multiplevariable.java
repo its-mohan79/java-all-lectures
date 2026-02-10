@@ -22,6 +22,7 @@ System.out.println(x2 + y2 + z2); // 150
 
 
 
+
    }
 
 
