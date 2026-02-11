@@ -12,6 +12,7 @@ System.out.println(myint);
 
  int score = 65;
         char grade = (char) score;   // int → char (narrowing)
+        
 
         System.out.println(grade);
 
