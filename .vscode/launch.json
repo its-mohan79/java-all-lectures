@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "operator",
+            "request": "launch",
+            "mainClass": "operator",
+            "projectName": "java all lectures_34766210"
+        },
+        {
+            "type": "java",
             "name": "arithmeticoperator",
             "request": "launch",
             "mainClass": "arithmeticoperator",
