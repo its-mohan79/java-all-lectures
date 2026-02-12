@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arithmeticoperator",
+            "request": "launch",
+            "mainClass": "arithmeticoperator",
+            "projectName": "java all lectures_34766210"
+        },
+        {
+            "type": "java",
+            "name": "narrowingcasting",
+            "request": "launch",
+            "mainClass": "narrowingcasting",
+            "projectName": "java all lectures_34766210"
+        },
+        {
+            "type": "java",
             "name": "multiplevariable",
             "request": "launch",
             "mainClass": "multiplevariable",
