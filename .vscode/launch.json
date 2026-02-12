@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "contonation",
+            "request": "launch",
+            "mainClass": "contonation",
+            "projectName": "java all lectures_34766210"
+        },
+        {
+            "type": "java",
             "name": "operator",
             "request": "launch",
             "mainClass": "operator",
