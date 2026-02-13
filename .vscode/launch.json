@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "javamath",
+            "request": "launch",
+            "mainClass": "javamath",
+            "projectName": "java all lectures_34766210"
+        },
+        {
+            "type": "java",
             "name": "specialcharacter",
             "request": "launch",
             "mainClass": "specialcharacter",
