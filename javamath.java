@@ -11,6 +11,11 @@ public class javamath {
 
     System.out.println(Math.min(5, 10));
 
+//  The Math.sqrt(x) method returns the square root of x:
+
+    System.out.println(Math.sqrt(64));  
+
+
 
 
     }
