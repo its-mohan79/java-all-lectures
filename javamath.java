@@ -13,7 +13,14 @@ public class javamath {
 
 //  The Math.sqrt(x) method returns the square root of x:
 
-    System.out.println(Math.sqrt(64));  
+    System.out.println(Math.sqrt(64));
+    
+
+    //  The Math.abs(x) method returns the absolute (positive) value of x:
+
+        System.out.println(Math.abs(-4.7));  
+
+        
 
 
 
