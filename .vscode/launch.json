@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ifjava",
+            "request": "launch",
+            "mainClass": "ifjava",
+            "projectName": "java all lectures_34766210"
+        },
+        {
+            "type": "java",
             "name": "booleans",
             "request": "launch",
             "mainClass": "booleans",
