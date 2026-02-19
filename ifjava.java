@@ -18,9 +18,16 @@ int x = 20;
     int y = 18;
     if (x > y) {
       System.out.println("x is greater than y");
-      
+
     }  
 
+
+
+     int x1 = 20;
+    int y1 = 20;
+    if (x1 == y1) {
+      System.out.println("x is equal to y");
+    }  
     }
     
 }
