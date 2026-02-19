@@ -28,6 +28,15 @@ int x = 20;
     if (x1 == y1) {
       System.out.println("x is equal to y");
     }  
+
+
+boolean isLightOn = true;
+
+    if (isLightOn) {
+      System.out.println("The light is on.");
+    }
+
+
     }
     
 }
