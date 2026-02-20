@@ -34,6 +34,7 @@ boolean isLightOn = true;
 
     if (isLightOn) {
       System.out.println("The light is on.");
+      
     }
 
 
