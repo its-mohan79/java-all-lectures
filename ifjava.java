@@ -47,6 +47,15 @@ boolean isLightOn = true;
     }
     
     System.out.println("This line always runs.");
+
+
+
+     int x5 = 20;
+    int y5 = 18;
+
+    if (x5 > y5)
+      System.out.println("x is greater than y");
+      System.out.println("This line runs no matter what (not part of the if statement)");
     }
     
 }
