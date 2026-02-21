@@ -38,6 +38,15 @@ boolean isLightOn = true;
   }
 
 
+
+
+    boolean isLightOn1 = false;
+
+    if (isLightOn1) {
+      System.out.println("The light is on.");  // This will not be printed
+    }
+    
+    System.out.println("This line always runs.");
     }
     
 }
