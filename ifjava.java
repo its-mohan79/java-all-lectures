@@ -56,6 +56,19 @@ boolean isLightOn = true;
     if (x5 > y5)
       System.out.println("x is greater than y");
       System.out.println("This line runs no matter what (not part of the if statement)");
+
+
+
+    int x6 = 20;
+    int y6 = 18;
+
+    if (x6 > y6) {
+      System.out.println("x is greater than y");
+      System.out.println("Both lines are part of the if");
+    }
+    
+    System.out.println("I am outside if, not part of if!");
+
     }
     
 }
