@@ -69,6 +69,7 @@ boolean isLightOn = true;
     
     System.out.println("I am outside if, not part of if!");
     
+    
 
     }
     
