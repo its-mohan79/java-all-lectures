@@ -23,6 +23,7 @@ System.out.println(z); // 5
 
 
 
+
  int a = 10;
     int b = 3;
     System.out.println(a / b);   // Integer division, result is 3
