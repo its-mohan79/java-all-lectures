@@ -6,6 +6,7 @@ public class booleansdatatypes {
         boolean isServerRunning = true;
 
         System.out.println(isServerRunning);
+        
     
 
 
