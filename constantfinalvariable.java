@@ -4,6 +4,7 @@ public class constantfinalvariable {
 
 // final int myNum = 15;
 // myNum = 20;  // Error: cannot assign a value to final variable 'myNum'
+
 //By convention, final variables in Java are usually written in upper case (e.g. BIRTHYEAR). It is not required, but useful for code readability and common for many programmers.
 
 
