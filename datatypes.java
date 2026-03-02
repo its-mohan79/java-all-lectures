@@ -14,7 +14,7 @@ public class datatypes {
  * A data type specifies:
  * - what kind of value a variable can store
  * - how much memory it occupies
- * - the range of values it can hold
+ * - the range of values it can  hold
  *
  * Java is a strongly typed language,
  * 
