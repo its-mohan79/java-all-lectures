@@ -28,7 +28,7 @@ public class datatypes {
  * Java data types are divided into two categories:
  *
  * 1. Primitive Data Types
- * 2. Non-Primitive (Reference) Data Types
+ * 2. Non-Primitive (Reference)  Data Types
  */
 
 /**
