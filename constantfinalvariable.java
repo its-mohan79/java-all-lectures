@@ -10,6 +10,7 @@ public class constantfinalvariable {
 
 
         final int DAYS_IN_WEEK = 7;
+        
         final String BIRTHDAY = "01/01/2000";
 
         System.out.println("Days in a week: " + DAYS_IN_WEEK);
