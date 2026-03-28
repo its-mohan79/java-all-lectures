@@ -8,7 +8,6 @@ System.out.println(myGrade);
 
 //by unicode
 
-
 char myVar1 = 65, myVar2 = 66, myVar3 = 67;
 System.out.println(myVar1);
 System.out.println(myVar2);
