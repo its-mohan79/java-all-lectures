@@ -26,6 +26,7 @@ public class datatypes {
  * 
  * ---------------------------------------------------------
  * 2. Types of Data Types in Java
+ * 
  * ---------------------------------------------------------
  * Java data types are divided into two categories:
  *
