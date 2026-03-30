@@ -19,7 +19,7 @@ public class datatypes {
  *
  * Java is a strongly typed language,
  * 
- * so every variable must have a data type.
+ * so every variable must  have a data type.
  */
 
 /**
