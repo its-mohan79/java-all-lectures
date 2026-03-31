@@ -22,15 +22,16 @@ public class datatypes {
  * so every variable must  have a data type.
  */
 
-/**
+/***
  * 
  * ---------------------------------------------------------
  * 2. Types of Data Types in Java
  * 
  * ---------------------------------------------------------
- * Java data types are divided into two categories:
+ * Java data types are  divided into two categories:
  *
  * 1. Primitive Data Types
+ * 
  * 2. Non-Primitive (Reference)  Data Types
  */
 
