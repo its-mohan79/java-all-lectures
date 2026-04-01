@@ -9,7 +9,7 @@ public class datatypes {
 
 /**
  * ---------------------------------------------------------
- * 1. What is a Data Type?
+ * 1. What is a Data Type ?
  * ---------------------------------------------------------
  * A data type specifies:
  * 
