@@ -18,7 +18,7 @@ public class contonation {
     System.out.println(firstName1.concat(lastName1));
     
 
-    String a = "Java ";
+    String a = "Java "; 
 String b = "is ";
 String c = "fun!";
 String result = a.concat(b).concat(c);
