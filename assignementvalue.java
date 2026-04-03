@@ -6,7 +6,7 @@ public class assignementvalue {
 
 
     int x2 = 5;
-    x2 += 3;
+    x2 += 9;
     System.out.println(x2);
     
 
