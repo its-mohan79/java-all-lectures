@@ -12,7 +12,7 @@ public class assignementvalue {
 
 
 
-    int x3 = 5;
+    int x3 = 8;
     x3 -= 3;
     System.out.println(x3);
 
