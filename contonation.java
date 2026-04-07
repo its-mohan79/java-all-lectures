@@ -9,7 +9,7 @@ public class contonation {
 
 
      String name = "mohan";
-    int age = 41;
+    int age = 31;
     System.out.println("My name is " + name + " and I am " + age + " years old.");
 
 
