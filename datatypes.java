@@ -17,7 +17,7 @@ public class datatypes {
  * - how much memory it occupies
  * - the range of values it can  hold
  *
- * Java is a strongly typed language,
+ * Java is  a strongly typed language,
  * 
  * so every variable must  have a data type.
  */
