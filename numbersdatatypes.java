@@ -2,7 +2,7 @@ public class numbersdatatypes{
     public static void main(String[] args) {
 
 
-byte Mynum = 120;
+byte Mynum = 122;
 System.out.println(Mynum);
 
 
