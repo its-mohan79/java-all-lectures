@@ -11,7 +11,7 @@ public class datatypes {
  * ---------------------------------------------------------
  * 1. What is  a  Data Type ?
  * ---------------------------------------------------------
- * A data type specifies:
+ * A data type specifies :
  * 
  * - what kind of value a variable can store
  * - how much memory it occupies
