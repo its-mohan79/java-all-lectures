@@ -1,11 +1,11 @@
 public class assignementvalue {
     public static void main(String[] args){
 
-         int x = 3;
+         int x = 2;
     System.out.println(x);
 
 
-    int x2 = 5;
+    int x2 = 9;
     x2 += 7;
     System.out.println(x2);
     
