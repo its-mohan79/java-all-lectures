@@ -17,7 +17,7 @@ public class assignementvalue {
     System.out.println(x3);
 
 
-    int x4 = 9;
+    int x4 = 94;
     x4 *= 3;
     System.out.println(x4);
 
