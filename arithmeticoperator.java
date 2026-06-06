@@ -2,7 +2,7 @@ public class arithmeticoperator {
     public static void main(String[] args){
 
 
-int x = 1110;
+int x = 110;
 int y = 3;
 
 System.out.println(x + y); // 13
