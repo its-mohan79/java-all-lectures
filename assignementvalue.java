@@ -1,7 +1,7 @@
 public class assignementvalue {
     public static void main(String[] args){
 
-         int x = 2;
+         int x = 222;
     System.out.println(x);
 
 
