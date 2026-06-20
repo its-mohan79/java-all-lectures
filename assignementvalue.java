@@ -2,7 +2,7 @@ public class assignementvalue {
     public static void main(String[] args){
 
          int x = 2;
-    System.out.println(x);111
+    System.out.println(x);11
 
 
     int x2 = 9;
