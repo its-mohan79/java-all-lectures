@@ -1,7 +1,7 @@
 public class comparisonoperator {
     public static void main(String[] args){
 
-int x = 555;
+int x = 5;
     int y = 5;
     System.out.println(x == y); // returns false because 5 is not equal to 3
 
