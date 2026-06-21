@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "specialcharacter",
+            "request": "launch",
+            "mainClass": "specialcharacter",
+            "projectName": "java-all-lectures_232fe265"
+        },
+        {
+            "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "variable",
+            "projectName": "java-all-lectures_232fe265"
+        },
+        {
+            "type": "java",
+            "name": "narrowingcasting",
+            "request": "launch",
+            "mainClass": "narrowingcasting",
+            "projectName": "java-all-lectures_232fe265"
+        },
+        {
+            "type": "java",
+            "name": "comparisonoperator",
+            "request": "launch",
+            "mainClass": "comparisonoperator",
+            "projectName": "java-all-lectures_232fe265"
+        },
+        {
+            "type": "java",
             "name": "ifjava",
             "request": "launch",
             "mainClass": "ifjava",
