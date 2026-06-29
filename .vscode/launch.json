@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "numbersdatatypes",
+            "request": "launch",
+            "mainClass": "numbersdatatypes",
+            "projectName": "java-all-lectures_232fe265"
+        },
+        {
+            "type": "java",
             "name": "specialcharacter",
             "request": "launch",
             "mainClass": "specialcharacter",
