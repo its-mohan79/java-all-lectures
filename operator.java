@@ -4,7 +4,7 @@ public class operator {
 int x = 100 + 50;
 System.out.println(x);
 
- int sum1 = 10000 + 50;
+ int sum1 = 1000 + 50;
     int sum2 = sum1 + 250;
     int sum3 = sum2 + sum2;
     System.out.println(sum1);
