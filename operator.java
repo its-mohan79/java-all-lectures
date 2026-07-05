@@ -1,7 +1,7 @@
 public class operator {
     public static void main(String[] args){
 
-int x = 10050;
+int x = 1050;
 System.out.println(x);
 
  int sum1 = 100 + 50;
